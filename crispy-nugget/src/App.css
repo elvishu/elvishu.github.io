@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400&display=swap');
+
 .App {
   text-align: center;
+  background: repeating-linear-gradient(to right, #082840, #07304e, #082840);
+  background-image: url("./mars-globe-valles-marineris-enhanced.jpg");
 }
 
 .App-logo {
@@ -14,18 +18,47 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 5vmin);
   color: white;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.circle {
+  background: repeating-radial-gradient(circle, #0f64a2, #1070b7);
+  width: 60vmin;
+  height: 60vmin;
+  border-radius: 30vmin;
+  font-family: "Roboto";
+}
+
+.box {
+  border: 10px solid white;
+  width: 45vmin;
+  height: 40vmin;
+  padding: 5vmin 0 0;
+
+  font-size: calc(17vmin);
+  line-height: calc(18vmin);
+
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  box-shadow: 3px 3px 1px 0px black;
+}
+
+.text-highlight {
+  color: #f3289d;
+
+}
+.text-mini {
+  font-size: calc(8px + 2vmin);
 }
 
 @keyframes App-logo-spin {
