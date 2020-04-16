@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ef8028a.chunk.css",
+    "main.css": "/static/css/main.08746646.chunk.css",
     "main.js": "/static/js/main.d62390a4.chunk.js",
     "main.js.map": "/static/js/main.d62390a4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.91320881.js",
@@ -8,9 +8,9 @@
     "static/js/2.f1a99736.chunk.js": "/static/js/2.f1a99736.chunk.js",
     "static/js/2.f1a99736.chunk.js.map": "/static/js/2.f1a99736.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e9267f961a39ad139de1730daf587a20.js": "/precache-manifest.e9267f961a39ad139de1730daf587a20.js",
+    "precache-manifest.ceb67f64f54594868d668d7ac447f39d.js": "/precache-manifest.ceb67f64f54594868d668d7ac447f39d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5ef8028a.chunk.css.map": "/static/css/main.5ef8028a.chunk.css.map",
+    "static/css/main.08746646.chunk.css.map": "/static/css/main.08746646.chunk.css.map",
     "static/js/2.f1a99736.chunk.js.LICENSE.txt": "/static/js/2.f1a99736.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
     "static/media/App.css": "/static/media/mars-globe-valles-marineris-enhanced.1862d0d4.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.91320881.js",
     "static/js/2.f1a99736.chunk.js",
-    "static/css/main.5ef8028a.chunk.css",
+    "static/css/main.08746646.chunk.css",
     "static/js/main.d62390a4.chunk.js"
   ]
 }
