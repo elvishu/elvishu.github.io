@@ -4,6 +4,7 @@
   text-align: center;
   background: repeating-linear-gradient(to right, #082840, #07304e, #082840);
   background-image: url("./mars-globe-valles-marineris-enhanced.jpg");
+  color: white;
 }
 
 .App-logo {
