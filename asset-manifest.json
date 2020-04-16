@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crispy-nugget/static/css/main.2d34284d.chunk.css",
+    "main.js": "/crispy-nugget/static/js/main.f5d8aa40.chunk.js",
+    "main.js.map": "/crispy-nugget/static/js/main.f5d8aa40.chunk.js.map",
+    "runtime-main.js": "/crispy-nugget/static/js/runtime-main.670c1dc5.js",
+    "runtime-main.js.map": "/crispy-nugget/static/js/runtime-main.670c1dc5.js.map",
+    "static/js/2.f1a99736.chunk.js": "/crispy-nugget/static/js/2.f1a99736.chunk.js",
+    "static/js/2.f1a99736.chunk.js.map": "/crispy-nugget/static/js/2.f1a99736.chunk.js.map",
+    "index.html": "/crispy-nugget/index.html",
+    "precache-manifest.b5adabd69ceab5ca191a8b140e7dcc0b.js": "/crispy-nugget/precache-manifest.b5adabd69ceab5ca191a8b140e7dcc0b.js",
+    "service-worker.js": "/crispy-nugget/service-worker.js",
+    "static/css/main.2d34284d.chunk.css.map": "/crispy-nugget/static/css/main.2d34284d.chunk.css.map",
+    "static/js/2.f1a99736.chunk.js.LICENSE.txt": "/crispy-nugget/static/js/2.f1a99736.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/crispy-nugget/static/media/logo.5d5d9eef.svg",
+    "static/media/App.css": "/crispy-nugget/static/media/mars-globe-valles-marineris-enhanced.1862d0d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.670c1dc5.js",
+    "static/js/2.f1a99736.chunk.js",
+    "static/css/main.2d34284d.chunk.css",
+    "static/js/main.f5d8aa40.chunk.js"
+  ]
+}
